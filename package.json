@@ -1,0 +1,13 @@
+{
+  "name": "doubao-skill-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local rendering utilities for the Doubao Skill promo video.",
+  "scripts": {
+    "render:promo": "node tools/render-doubao-skill-promo.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "sharp": "^0.33.5"
+  }
+}

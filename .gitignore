@@ -13,4 +13,11 @@ desktop.ini
 work/
 tmp/
 temp/
+.superpowers/
+node_modules/
 *.log
+
+dist/
+renders/
+frames/
+media/*.mp4
